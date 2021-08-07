@@ -1,5 +1,5 @@
 # Library-Management
-#### This is a Python Project for a Book Store data using MySQL where we have given the features which are reqired in a Library
+#### This is a Python Project for a Book Store data using MySQL where we have given the features which are reqired in a Library and working on the data is easy and user friendly 
 
 
 App Screens
