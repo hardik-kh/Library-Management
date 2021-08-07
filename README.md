@@ -42,4 +42,4 @@ App Screens
 | Return Book     |
 | ------------- |
 | <img src ="p6.jpg" width = "900" height = "550">      |
-|<h4> You can reeturn a book by providing with Book ID  |
+|<h4> You can return a book by providing with Book ID  |
