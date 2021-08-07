@@ -1,5 +1,5 @@
 # Library-Management
-This is a Python Project for a Book Store data using MySQL
+#### This is a Python Project for a Book Store data using MySQL
 
 
 App Screens
@@ -43,3 +43,6 @@ App Screens
 | ------------- |
 | <img src ="p6.jpg" width = "900" height = "550">      |
 |<h4> You can return a book by providing with Book ID  |
+  
+  
+ ## About
