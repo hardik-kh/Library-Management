@@ -1,2 +1,2 @@
 # Library-Management
-Book Store data using Python and MySQL
+This is a Python Project for a Book Store data using MySQL
