@@ -45,4 +45,7 @@ App Screens
 |<h4> You can return a book by providing with Book ID  |
   
   
- ## About
+ ## Libraries Used 📖
+- Tkinter
+- Pillow
+- mysql.connector
