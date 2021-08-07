@@ -21,7 +21,10 @@ App Screens
 | Delete Book Details     |
 | ------------- |
 | <img src ="p3.jpg" width = "900" height = "550">      |
+ |<h4> You can delete a book by providing with Book ID  |
 
+    <br/>
+  
 | View Book Details       |
 | ------------- |
 | <img src ="p4.jpg" width = "900" height = "550">      |
