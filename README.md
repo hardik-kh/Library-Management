@@ -29,3 +29,17 @@ App Screens
 | ------------- |
 | <img src ="p4.jpg" width = "900" height = "550">      |
 |<h4> Here you can see all the book list which are Avail and Issued  |
+  
+<br/>
+  
+| Add Book Details |
+| ------------- |
+| <img src ="p5.jpg" width = "900" height = "550">      |
+|<h4> You can add a new book by providing with Book title and author's Name  |
+
+<br/>
+  
+| Delete Book Details     |
+| ------------- |
+| <img src ="p6.jpg" width = "900" height = "550">      |
+|<h4> You can delete a book by providing with Book ID  |
