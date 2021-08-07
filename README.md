@@ -32,14 +32,14 @@ App Screens
   
 <br/>
   
-| Add Book Details |
+| Issue Book |
 | ------------- |
 | <img src ="p5.jpg" width = "900" height = "550">      |
-|<h4> You can add a new book by providing with Book title and author's Name  |
+|<h4> You can issue the avialable books by providing Book ID and Issued to name  |
 
 <br/>
   
-| Delete Book Details     |
+| Return Book     |
 | ------------- |
 | <img src ="p6.jpg" width = "900" height = "550">      |
-|<h4> You can delete a book by providing with Book ID  |
+|<h4> You can reeturn a book by providing with Book ID  |
