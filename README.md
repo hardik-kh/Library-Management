@@ -7,7 +7,7 @@ App Screens
 | Home Screen    |
 | ------------- |
 | <img src ="p1.jpg" width = "900" height = "550">     |
-### This is the home page which comes at the strating 
+| This is the home page which comes at the strating |
 
 | Add Book Details |
 | ------------- |
