@@ -7,7 +7,7 @@ App Screens
 | Home Screen    |
 | ------------- |
 | <img src ="p1.jpg" width = "900" height = "550">     |
-|<h3> This is the home page which comes at the strating |
+|<h4> This is the home page which comes at the starting giving diffrent options in th Book Store  |
 
 | Add Book Details |
 | ------------- |
