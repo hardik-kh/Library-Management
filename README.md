@@ -6,8 +6,8 @@ App Screens
 -------
 | Login Screen    |
 | ------------- |
-| <img src ="p1.jpg" width = "900" height = "500">     |
+| <img src ="p1.jpg" width = "900" height = "550">     |
 
 | OTP Page       |
 | ------------- |
-| <img src ="p3.jpg" width = "900" height = "500">      |
+| <img src ="p3.jpg" width = "900" height = "550">      |
