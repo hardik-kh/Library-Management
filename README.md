@@ -16,14 +16,14 @@ App Screens
 | <img src ="p2.jpg" width = "900" height = "550">      |
 |<h4> You can add a new book by providing with Book title and author's Name  |
 
- <br/>
+<br/>
   
 | Delete Book Details     |
 | ------------- |
 | <img src ="p3.jpg" width = "900" height = "550">      |
- |<h4> You can delete a book by providing with Book ID  |
+|<h4> You can delete a book by providing with Book ID  |
 
-    <br/>
+<br/>
   
 | View Book Details       |
 | ------------- |
